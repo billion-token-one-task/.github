@@ -11,9 +11,9 @@
 
 We are launching a **"Manhattan Project" for AI** — researching how to effectively constrain 10⁹–10¹² tokens toward a **single complex objective**, building next-generation cognitive architectures for AI agents.
 
-Most AI agent systems today operate at 10³–10⁵ tokens per task. We work on the frontier: 10⁸ and beyond, where model capability is no longer the bottleneck — **the architecture that governs massive token flows is**.
+Most AI agent systems today operate at 10⁴–10⁶ tokens per task. We work on the frontier: 10⁸ and beyond, where model capability is no longer the bottleneck — **the architecture that orchestrates massive token flows in service of a single task is**.
 
-We don't run 1,000 agents on simple parallel tasks. We orchestrate an agent system around **one extraordinarily complex goal**, executing over days with rollback capability and zero drift.
+We don't run 1,000 agents on simple parallel tasks. We orchestrate an agent system around **one extraordinarily complex goal**, executing over weeks or months with minimal or no human intervention, rollback capability, and zero drift.
 
 ### Proven Results
 
@@ -41,26 +41,26 @@ We welcome collaborators from universities, research labs, and the open-source c
 
 ## Charter
 
-This research program is initiated and led by **the founding organization**, with contributions from independent researchers, university interns, and open-source collaborators worldwide.
+This research program is initiated and coordinated by **the founding organization**, with contributions from independent researchers, university interns, commercial organizations, and open-source collaborators worldwide.
 
 ### Three Principles
 
 **1. Attribution follows contribution.**
-All contributors are credited according to their actual intellectual contribution, following established academic norms. The founding organization maintains a record of contributions and serves as the final arbiter when attribution questions arise.
+All contributors are credited according to their actual intellectual contribution, following established academic norms.
 
 **2. Open research, coordinated commercialization.**
 Research outputs — papers, algorithms, experimental findings — are published openly. Code is released under the Joule Community License. Anyone may use published results for research and academic purposes. Commercial applications are coordinated through the founding organization to ensure sustainable funding for continued research.
 
 **3. Shared resources, shared responsibility.**
-The founding organization provides computational resources, API access, and research infrastructure. Contributors who use these resources work transparently within the organization's repositories. All funded research outputs are disclosed to the project prior to external publication.
+The project welcomes resource support from all parties to advance research collectively. The founding organization coordinates resource allocation and usage. Contributors who use project resources work transparently within the organization's repositories. All funded research outputs are disclosed to the project prior to external publication.
 
 ### Governance
 
-As the founding and sponsoring organization:
+As the founding and maintaining organization:
 
-- Sets research direction and allocates resources
+- Sets research direction and coordinates resource allocation
 - Maintains contribution records across all projects
-- Makes final determinations on attribution and intellectual property matters when questions arise
+- Makes final determinations on attribution and intellectual property matters when questions arise, based on recorded contribution history
 
 Day-to-day collaboration is trust-based, lightweight, and conducted primarily in project repositories. Governance will evolve as the community grows.
 
