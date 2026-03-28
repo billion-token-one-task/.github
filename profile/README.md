@@ -1,6 +1,6 @@
 # Joule — Token 量级认知架构研究
 
-[English Version](README_EN.md)
+[English](README_EN.md)
 
 > Token 之于认知，正如焦耳之于能量。
 > 每一个数量级的 Token 调度能力，解锁一类过去无法完成的超复杂任务——瓶颈不在模型，而在架构。
