@@ -9,7 +9,7 @@
 
 ## What We Do
 
-We are launching a **"Manhattan Project" for AI** — researching how to effectively constrain 10⁹–10¹² tokens toward a **single complex objective**, building next-generation cognitive architectures for AI agents.
+We are launching a **"Kardashev Project" for AI** — researching how to effectively constrain 10⁹–10¹² tokens toward a **single complex objective**, building next-generation cognitive architectures for AI agents.
 
 Most AI agent systems today operate at 10⁴–10⁶ tokens per task. We work on the frontier: 10⁸ and beyond, where model capability is no longer the bottleneck — **the architecture that orchestrates massive token flows in service of a single task is**.
 
