@@ -29,11 +29,11 @@ Joule 是一个 **Token 量级认知架构研究计划**。
 
 ## 如何参与
 
-1. **认领短周期课题** — 7–10 天单人可解，使用[研究提案模板](PROPOSAL_TEMPLATE.md)在相关仓库提 issue
+1. **认领短周期课题** — 7–10 天单人可解，使用[研究提案模板](https://github.com/billion-token-one-task/.github/blob/main/PROPOSAL_TEMPLATE.md)在相关仓库提 issue
 2. **浏览** — 探索我们的仓库和开放研究提案
-3. **提案** — 使用[研究提案模板](PROPOSAL_TEMPLATE.md)提交你的研究方向
+3. **提案** — 使用[研究提案模板](https://github.com/billion-token-one-task/.github/blob/main/PROPOSAL_TEMPLATE.md)提交你的研究方向
 4. **贡献** — 选择一个项目，发起 Issue，开始对话
-5. **签署** [贡献者许可协议 (CLA)](CLA.md)（首次贡献前）
+5. **签署** [贡献者许可协议 (CLA)](https://github.com/billion-token-one-task/.github/blob/main/CLA.md)（首次贡献前）
 
 我们欢迎来自高校、研究机构和开源社区的研究者参与合作。
 
