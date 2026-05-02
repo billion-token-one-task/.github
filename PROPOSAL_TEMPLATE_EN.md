@@ -2,62 +2,41 @@
 
 [中文版](PROPOSAL_TEMPLATE.md)
 
-*Proposed by: [Name / Affiliation]*
-*Date: YYYY-MM-DD*
+> Joule is a Token-Scale Cognitive Architecture research program.
+> We are not recruiting executors. We are looking for people who will help define the problem with us.
+> **Contribute first, then be selected — prove yourself and you can join the core team.**
 
 ---
 
-## One-Line Summary
+**Proposer:** [Name / GitHub ID]
+**Direction:** [Token-Scale Orchestration / Latent Communication / Agent Efficiency Science / Engineering Transformation (repo name)]
+**Cycle:** [7 - 10 days]
 
-[One sentence describing what you want to do and why it matters.]
+## 1. One-Sentence Goal
 
-## Background & Motivation
+[What you will build, validate, or advance within 7–10 days]
 
-[Why is this research important? What gap does it fill? Link to relevant prior work — including any existing results within this organization.]
+## 2. How
 
-## Proposed Approach
+[Concrete method, experimental design, or system to build — enough specificity for reviewers to judge feasibility]
 
-[What will you actually do? Describe the method, experiments, or system you plan to build. Be specific enough that someone can evaluate feasibility.]
+## 3. Success / Failure Criterion (choose one)
 
-## Expected Outputs
+- **(A) Binary Delivery** — Achieving X = success; not achieving X = failure.
+- **(B) Hypothesis-Driven** — Predict H true / false; experiment provides directional evidence to close.
 
-- [ ] [e.g., Reproducible experiments with code in this org's repo]
-- [ ] [e.g., Technical report or paper draft]
-- [ ] [e.g., Reusable tool, dataset, or benchmark]
+Failure is allowed — but the outcome must be judgeable.
 
-## Resource Requirements
+## 4. Resource Needs (optional)
 
-| Resource | Amount | Duration |
-|----------|--------|----------|
-| GPU (type) | e.g., 4× A100 | e.g., 4 weeks |
-| API access | e.g., Claude/GPT-4 | e.g., ~$X budget |
-| Other | | |
+[Write "none" if not needed; otherwise list briefly (API / GPU / data)]
 
-## Timeline & Milestones
+## 5. About You
 
-| Week | Milestone |
-|------|-----------|
-| 1–2 | [e.g., Reproduce baseline, set up evaluation] |
-| 3–4 | [e.g., Run core experiments] |
-| 5–6 | [e.g., Analysis and writeup] |
-
-## Team
-
-| Name | Role | Affiliation | Funded by project? |
-|------|------|-------------|-------------------|
-| | | | Yes / No |
-
-## Connection to Joule Research Program
-
-[How does this proposal relate to the Joule token-scale cognitive architecture thesis? Which aspect of the research roadmap does it advance?]
-
-> **Research mission reference**: The Joule research program aims to push the boundary of single-task token orchestration through engineering constraints. Each order of magnitude unlocks a new class of previously impossible tasks. We focus not on how smart the model is, but on whether the architecture can govern massive token flows toward ordered execution on a single objective.
+[One-line bio + time commitment + student / industry / independent researcher]
 
 ---
 
-## Approval Process
-
-1. Submit this proposal as a **new Issue** in the relevant repository (or in `.github` for cross-cutting proposals)
-2. The founding organization reviews and responds within **7 days**
-3. If approved, a dedicated repository is created and resources are allocated
-4. Research begins — progress tracked via commits, issues, and periodic check-ins
+**Review SLA:** Founding organization replies within **3 days**.
+**Progress SLA:** Issue status must be updated within **7 days** (success / failure / in-progress); 7 days of silence triggers maintainer outreach and closure.
+**Agreement:** Submission constitutes acceptance of the [CLA](CLA.md); §7 Short-Cycle Community Contributions applies to this track.

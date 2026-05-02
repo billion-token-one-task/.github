@@ -1,6 +1,6 @@
 # Joule Research — Contributor License Agreement
 
-*Version 1.0 — March 2026*
+*Version 1.1 — May 2026*
 
 By contributing to any repository under the `billion-token-one-task` organization, you agree to the following terms.
 
@@ -40,6 +40,10 @@ Resources provided by the founding organization (compute, API keys, data access)
 ## 6. Dispute Resolution
 
 Any disputes regarding contribution attribution, intellectual property, or interpretation of this agreement are resolved by the founding organization, based on the recorded contribution history in the project's repositories.
+
+## 7. Short-Cycle Community Contributions
+
+For contributions submitted via the short-cycle community proposal track (≤10 days, single contributor), the founding organization commits to co-authorship credit on any publication that materially incorporates the contribution, per standard academic attribution norms.
 
 ---
 
