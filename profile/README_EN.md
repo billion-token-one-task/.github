@@ -22,6 +22,8 @@ We don't run 1,000 agents on simple parallel tasks. We orchestrate an agent syst
 
 ### Active Research Areas
 
+Our thesis: **The bottleneck of long-horizon execution is not single-step intelligence — it is how errors accumulate in state, are detected, and are rolled back.** Our three research directions cut into this thesis from different angles:
+
 - **Token-scale orchestration** — verification-repair loops, state compression, and efficiency measurement for billion-token tasks
 - **Latent-space communication** — replacing MB-level text exchange between agents with KB/byte-level continuous representations (our 512-byte compressor matches full-KV baselines on GSM8K)
 - **Agent efficiency science** — empirically mapping the bandwidth-accuracy curve, cognitive Carnot efficiency, and ε (state compression loss) across task families
