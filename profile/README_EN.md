@@ -17,6 +17,8 @@ Most AI agent systems today operate at 10⁴–10⁶ tokens per task. We work on
 
 We don't run 1,000 agents on simple parallel tasks. We orchestrate an agent system around **one extraordinarily complex goal**, executing over weeks or months with minimal or no human intervention, rollback capability, and zero drift.
 
+Solving this means AI systems can pursue month-scale complex goals without human intervention — crossing from tool to autonomous agent.
+
 ### Proven Results
 
 - **$36** to complete 12 months of one engineer's code maintenance output
