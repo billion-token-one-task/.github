@@ -19,8 +19,8 @@ We don't run 1,000 agents on simple parallel tasks. We orchestrate an agent syst
 
 ### Proven Results
 
-- **$36** to complete 9 engineer-months of autonomous code repair
-- **$30** to complete 2 researcher-years of cross-disciplinary literature discovery
+- **$36** to complete 12 months of one engineer's code maintenance output
+- **$51** to complete 2 years of a research team's paper output
 
 ### Active Research Areas
 
