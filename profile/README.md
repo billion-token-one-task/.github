@@ -39,8 +39,6 @@ Joule 是一个 **Token 量级认知架构研究计划**。
 
 选一个研究方向，用[研究提案模板](https://github.com/billion-token-one-task/.github/blob/main/PROPOSAL_TEMPLATE.md)在相关仓库提 issue。3 天内反馈，7–10 天单人可解；允许失败，只要可判定。做出来的人自然进入核心讨论。
 
-[浏览仓库](https://github.com/billion-token-one-task) · [签 CLA](https://github.com/billion-token-one-task/.github/blob/main/CLA.md)（首次贡献前）
-
 ---
 
 ## 当前项目
