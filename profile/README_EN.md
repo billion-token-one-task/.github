@@ -40,7 +40,6 @@ Three angles into this thesis:
 
 Pick a research direction and propose via our [research proposal template](https://github.com/billion-token-one-task/.github/blob/main/PROPOSAL_TEMPLATE_EN.md) by opening an issue in the relevant repo. We respond in 3 days; tasks are 7–10 days, single-person solvable; failure is allowed as long as the result is judgeable. People who deliver naturally join the core discussion.
 
-[Browse repos](https://github.com/billion-token-one-task) · [Sign CLA](https://github.com/billion-token-one-task/.github/blob/main/CLA.md) (before first contribution)
 
 ---
 
