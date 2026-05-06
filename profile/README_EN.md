@@ -58,7 +58,6 @@ Pick a research direction and propose via our [research proposal template](https
 ## Contact
 
 - GitHub Issues & Discussions (preferred)
-- For partnership inquiries: [TBD]
 
 ---
 
