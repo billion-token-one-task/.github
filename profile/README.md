@@ -56,7 +56,6 @@ Joule 是一个 **Token 量级认知架构研究计划**。
 ## 联系方式
 
 - GitHub Issues & Discussions（首选）
-- 合作咨询：[待定]
 
 ---
 
